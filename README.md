@@ -103,4 +103,19 @@ It demonstrates a full end-to-end pipeline for **Spotify track analysis**, expan
 - Scikit-learn Documentation
 - PyOD Documentation
   
+## 📊 Visualization Results
 
+Below are the key outputs generated from the Spotify clustering pipeline.
+
+### Clustering & Analysis Output
+
+![Spotify Clustering Results](spotify_results.png)
+
+The visualization summarizes:
+
+- PCA cluster separation
+- Energy vs log-ratio distribution
+- Decision Tree feature importance
+- Anomaly energy comparison
+
+These plots help interpret cluster behavior and identify unusual tracks.
