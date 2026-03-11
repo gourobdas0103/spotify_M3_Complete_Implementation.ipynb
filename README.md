@@ -63,7 +63,7 @@ It demonstrates a full end-to-end pipeline for **Spotify track analysis**, expan
 1. Clone the repository:
    Open your terminal or command prompt and run:
    ```bash
-   git clone https://github.com/yourusername/spotify-clustering.git
+   git clone https://github.com/gourobdas0103/spotify_M3_Complete_Implementation.git
    cd spotify-clustering
 2. 🐍 Set Up a Virtual Environment (Recommended)
    Create and activate a virtual environment to manage dependencies:
