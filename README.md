@@ -61,16 +61,28 @@ It demonstrates a full end-to-end pipeline for **Spotify track analysis**, expan
 
 ## 🚀 How to Run
 1. Clone the repository:
+   Open your terminal or command prompt and run:
    ```bash
    git clone https://github.com/yourusername/spotify-clustering.git
    cd spotify-clustering
+2. 🐍 Set Up a Virtual Environment (Recommended)
+   Create and activate a virtual environment to manage dependencies:
+   ```bash
+   # Create virtual environment
+   python -m venv venv
+   # Activate it
+   # On Windows:
+   venv\Scripts\activate
+   # On macOS/Linux:
+   source venv/bin/activate
 
-
-2. Install dependencies:
+3. Install dependencies:
+   Install all required Python libraries using the provided requirements.txt:
    ```bash
    pip install -r requirements.txt
 
-3. Run the notebook:
+4. Run the notebook:
+   Start Jupyter Notebook and open the analysis file
    ```bash
    jupyter notebook spotify_pipeline.ipynb
 
