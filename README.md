@@ -84,7 +84,7 @@ It demonstrates a full end-to-end pipeline for **Spotify track analysis**, expan
 4. Run the notebook:
    Start Jupyter Notebook and open the analysis file
    ```bash
-   jupyter notebook spotify_pipeline.ipynb
+   jupyter notebook spotify_M3_Complete_Implementation.ipynb
 
 📚 Techniques & Libraries- Clustering: K-Means (scikit-learn)
 - Classification: Decision Trees (scikit-learn)
