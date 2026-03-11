@@ -1,6 +1,6 @@
 # M3 Spotify Music Clustering - Complete Pipeline
 
-**Author:** Abhishek Kumar
+**Author:** Gourob Das
 
 ## Project Overview
 This project implements an end-to-end unsupervised machine learning pipeline to analyze and cluster a dataset of Spotify tracks. The primary objective is to resolve injected data quality issues, identify underlying audio profiles using K-Means clustering, and detect anomalous tracks that deviate from standard patterns.
