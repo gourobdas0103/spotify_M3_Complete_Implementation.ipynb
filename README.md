@@ -66,10 +66,13 @@ It demonstrates a full end-to-end pipeline for **Spotify track analysis**, expan
    cd spotify-clustering
 
 
-- Install dependencies:
-pip install -r requirements.txt
-- Run the notebook:
-jupyter notebook spotify_pipeline.ipynb
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   ```bash
+   jupyter notebook spotify_pipeline.ipynb
 
 📚 Techniques & Libraries- Clustering: K-Means (scikit-learn)
 - Classification: Decision Trees (scikit-learn)
